@@ -1,4 +1,5 @@
 # E-commerce sales data
+![100png](https://github.com/guofanfangloveyou/E-commerce-sales-data/assets/59468743/1037c1ef-2a03-42c9-9099-46a72c3ca5fe)
 
 E-commerce platform includes Taobao + Tmall + Jingdong, covering 200 A-share listed companies, including traditional Chinese medicine, liquor, dairy products and other 75 Shenwan III industry.
 
